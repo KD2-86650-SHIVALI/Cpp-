@@ -56,6 +56,11 @@ do
 
 switch (choice)
     {
+
+    case 0:
+    cout<<"byeeeee"<<endl;
+        break;
+
     case 1:
     d1.initdate();
         break;
